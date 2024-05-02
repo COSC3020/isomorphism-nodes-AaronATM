@@ -13,7 +13,7 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 Proof:
 
-Let $G_{1} be any graph with size n, vertices $u_{1}$, $v_{1}$ and $G_{2} be any graph with size n - i, where i is any non-zero positive integer, and with vertices $u_{2}$, $v_{2}$,
+Let $G_{1}$ be any graph with size n, vertices $u_{1}$, $v_{1}$ and $G_{2} be any graph with size n - i, where i is any non-zero positive integer, and with vertices $u_{2}$, $v_{2}$,
 
 For some edge $E_{1}$ in $G_{1}$, there only exists a function $f: u_{1} \rightarrow v_{1}$ such that $(u_{1}, v_{1}) \in E_{1}$ and $(f(u_{1}), f(v_{1})) \neq (u_{2}, v_{2})$
 
